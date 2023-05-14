@@ -46,6 +46,9 @@ function createWindow() {
             mainWindow.show();
         }
     });
+    mainWindow.webContents.on('devtools-opened', () => {
+        //mainWindow.webContents.closeDevTools();
+      });
 }
 
 module.exports = {
