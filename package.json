@@ -8,7 +8,7 @@
     "url": "https://lanthania.tk",
     "engines": {
         "node": "^18.x.x"
-    },
+    }, 
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "build": "node build.js --obf=true",
