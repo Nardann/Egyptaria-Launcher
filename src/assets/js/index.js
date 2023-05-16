@@ -22,7 +22,7 @@ class Splash {
 
     async startAnimation() {
         let splashes = [
-            { "message": "Tu as fait le bon choix de prendre ce launcher", "author": "Nardann" },
+            { "message": "♦ Egyptaria ♦", "author": "Nardann" },
             { "message": "Salut je suis du code.", "author": "Nardann" },
             { "message": "Linux n' ai pas un os, mais un kernel.", "author": "Nardann" }
         ]

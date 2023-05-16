@@ -1,7 +1,7 @@
 {
     "name": "Egyptaria-Launcher",
     "preductname": "Egyptaria Launcher",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Egyptaria Launcher",
     "main": "src/app.js",
     "author": "Nardann",
