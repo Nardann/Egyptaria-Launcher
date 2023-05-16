@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.0.1
 files:
   - url: Egyptaria-Launcher-win-x64.exe
-    sha512: 8l6k+Mq9LYyVOft4JgioYRGZG3Kl9V5o0rOWZI+M5DoDFhK01liVoiuPGsICjuVeT/2+gDFbl7geIXat17mtdA==
-    size: 80978321
+    sha512: uX1K4eMLUcJziV7bMmo5AkXoTASFierjdo56dkQvpfr9j2XT24mhoaGY6+9T7Q2BdxWZSSIDMJzleZpJlfAbnA==
+    size: 80978165
 path: Egyptaria-Launcher-win-x64.exe
-sha512: 8l6k+Mq9LYyVOft4JgioYRGZG3Kl9V5o0rOWZI+M5DoDFhK01liVoiuPGsICjuVeT/2+gDFbl7geIXat17mtdA==
-releaseDate: '2023-05-16T19:09:00.688Z'
+sha512: uX1K4eMLUcJziV7bMmo5AkXoTASFierjdo56dkQvpfr9j2XT24mhoaGY6+9T7Q2BdxWZSSIDMJzleZpJlfAbnA==
+releaseDate: '2023-05-16T21:29:27.605Z'
