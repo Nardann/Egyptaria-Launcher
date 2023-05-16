@@ -1,0 +1,19 @@
+# Generated
+.github
+.vscode
+AppData
+dist/win-unpacked
+dist/builder-debug.yml
+dist/builder-effective-config.yaml
+dist/Egyptaria-Launcher-win-x64.exe.blockmap
+docs
+node_modules
+app
+src
+dist/win-unpacked
+node-v*
+LICENSE.md
+build.js
+package-lock.json
+package.json
+tool.bat
